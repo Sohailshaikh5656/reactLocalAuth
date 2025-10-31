@@ -1,6 +1,6 @@
 # ⚛️ React Local Authentication App
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="400" style="display: block; margin: 0 auto;" />
 
 ## 🚀 Introduction
 
@@ -18,11 +18,14 @@ reactLocalAuth/
 │   ├── index.html
 │   └── favicon.ico
 ├── src/
-│   ├── assets/
 │   ├── components/
-│   │   ├── Login.jsx
-│   │   ├── Register.jsx
-│   │   └── Dashboard.jsx
+│   │   ├── Home.js
+│   │   ├── Login.js
+│   │   ├── Profile.js
+│   │   ├── Signup.js
+│   │   └── Dashboard.js
+│   ├── common/
+│   │   └── Navbar.js
 │   ├── store/
 │   │   ├── index.js
 │   │   └── slice/
@@ -36,6 +39,13 @@ reactLocalAuth/
 ```
 
 🧠 Working Demo Preview
+<div align="center">
+  <img src="./screenshot/s1.png" alt="Screenshot 1" width="400" style="margin: 20px;" />
+  <img src="./screenshot/s2.png" alt="Screenshot 2" width="400" style="margin: 20px;" />
+  <img src="./screenshot/s3.png" alt="Screenshot 3" width="400" style="margin: 20px;" />
+  <img src="./screenshot/s4.png" alt="Screenshot 4" width="400" style="margin: 20px;" />
+  <img src="./screenshot/s5.png" alt="Screenshot 5" width="400" style="margin: 20px;" />
+</div>
 
 
 👨‍💻 Author
